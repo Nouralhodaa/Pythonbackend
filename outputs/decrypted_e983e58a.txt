@@ -1,0 +1,3 @@
+Bu bir örnek metindir.
+FastAPI ve Next.js ile geliştirilen kriptoloji projesinde test amaçlı kullanılmaktadır.
+Şifreleme başarıyla çalışıyor mu?
